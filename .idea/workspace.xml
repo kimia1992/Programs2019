@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12dff558-5b54-4ee7-a654-0a1d2096f1ce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,12 +31,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -75,6 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575261558878</updated>
       <workItem from="1575261562575" duration="459000" />
+      <workItem from="1575273101658" duration="48779000" />
     </task>
     <servers />
   </component>
@@ -82,13 +84,83 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="208" y="31" key="SettingsEditor" timestamp="1575267041076">
+    <state x="612" y="321" width="630" height="579" key="#xdebugger.evaluate" timestamp="1575616549272">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1575267041076" />
+    <state x="612" y="321" width="630" height="579" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1575616549272" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1575877876550">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1575877876550" />
+    <state width="1398" height="261" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1575275836872" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1575833097696" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1575877876547">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1575877876547" />
+    <state width="1398" height="261" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1575275836870" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1575833097695" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1575877876545">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1575877876545" />
+    <state width="1398" height="261" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1575275836868" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1575833097693" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1575877876548">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1575877876548" />
+    <state width="1398" height="261" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1575275836871" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1575833097696" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1575869874308">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1575869874308" />
+    <state width="1398" height="261" key="GridCell.Tab.1.bottom/0.23.1440.816@0.23.1440.816" timestamp="1575275836879" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1575833097699" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1575869874306">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1575869874306" />
+    <state width="1398" height="261" key="GridCell.Tab.1.center/0.23.1440.816@0.23.1440.816" timestamp="1575275836876" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1575833097698" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1575869874305">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1575869874305" />
+    <state width="1398" height="261" key="GridCell.Tab.1.left/0.23.1440.816@0.23.1440.816" timestamp="1575275836875" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1575833097697" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1575869874307">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1575869874307" />
+    <state width="1398" height="261" key="GridCell.Tab.1.right/0.23.1440.816@0.23.1440.816" timestamp="1575275836878" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1575833097699" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1575597097577">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1575597097577" />
     <state x="399" y="263" key="com.intellij.ide.util.TipDialog" timestamp="1575261565790">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="399" y="263" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1575261565790" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1575918464506">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1575918464506" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MergeTwoSortedArrays2.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Programs2019$Main.ic" NAME="Main Coverage Results" MODIFIED="1575702820903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
